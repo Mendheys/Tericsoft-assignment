@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "assignment": [
+    {
+      "name": "Pratik",
+      "email": "Pratikmendhey@gmail.com",
+      "phone": "12",
+      "DOB": "2003-01-13",
+      "gender": "female",
+      "id": 1
+    },
+    {
+      "name": "Priti",
+      "email": "Priti@gmail.com",
+      "phone": "90075543112",
+      "DOB": "2022-10-21",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "name": "ABC",
+      "email": "ABC@gmail.com",
+      "phone": "12356",
+      "DOB": "2005-10-02",
+      "gender": "male",
+      "id": 4
+    }
+  ]
+}
